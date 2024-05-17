@@ -53,7 +53,7 @@ main {
 footer {
     background-color: var(--md-sys-color-on-tertiary-container);
     color: var(--md-sys-color-on-primary);
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     grid-area: footer;
 }
